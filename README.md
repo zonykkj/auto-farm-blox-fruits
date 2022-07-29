@@ -1,1 +1,2 @@
-# troll-ban-roblox
+# auto farm blox fruits
+script:
